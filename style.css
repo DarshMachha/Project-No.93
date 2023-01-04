@@ -1,0 +1,118 @@
+
+.menu {
+    position: fixed;
+    width: 100%;
+    background-color: rgb(248, 189, 62);
+    margin-top: 0px;
+    z-index: 10;
+    top: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.link {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family:monospace;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+
+
+#log1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom:  20px;
+    border-radius: 10px;
+}
+
+button{
+    font-weight: bold;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  
+}
+
+#register{
+    margin-top: 20px;
+}
+
+.sign-up-form{
+    width: 500px;
+    box-shadow: 0 0 3px 0 rgba(237, 0, 0, 0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+    background-image:url(welding-istock-466744137.jpg) ;
+    background-size: cover;
+    background-position:fixed ;
+}
+
+.sign-up-form h1{
+    color: #1c8adb;
+    margin-bottom:  30px;;
+}
+
+.input-box{
+border-radius: 20px;
+padding: 10px;
+margin: 10px 0;
+width: 100%;
+border: 1px solid #999;
+outline: none;
+}
+
+#research{
+    font-weight: bold;
+}
+
+.signupbtn{
+    background-color:#1c8adb; ;
+}
+
+.logintwi{
+    background-color: #21afde;
+}
+
+.cancelbtn{
+    background-color: #21afde;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    margin-top: 20px;
+    width: 80%;
+}
+
+.or{
+    background: #fff;
+    width: 30%;
+    margin: -19 auto 10px;
+}
+
+
